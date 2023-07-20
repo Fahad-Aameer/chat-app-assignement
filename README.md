@@ -7,7 +7,7 @@ To run this application locally on your machine, follow the steps below:
 
     git clone https://github.com/Fahad-Aameer/chat-app-assignement/tree/master
 
-    cd reactjs-chat-application
+    cd chat-app-assignement
 
     npm install
 
