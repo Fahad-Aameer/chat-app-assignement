@@ -1,6 +1,7 @@
 ReactJS Chat Application
 
-This is a simple ReactJS chat application developed as part of the Exactspace Technologies Internship selection process. The application allows users to send and receive chat messages and interact with various features like liking messages and using emojis.
+This is a simple ReactJS chat application developed as part of the Exactspace Technologies Internship selection process.
+
 Installation
 
 To run this application locally on your machine, follow the steps below:
